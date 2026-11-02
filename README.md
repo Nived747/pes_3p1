@@ -1,2 +1,2 @@
 # pes_3p1
-this repo is created for 5 days of training for 3rd sem students of PES Mandya.  It was held on November 26, and the content is python, problem solving, basic DSA, programming language and libraries.
+this repo is created for 5 days of training for 3rd sem students of PES Mandya.  It was held in 1st week of Nov 2026. The content was git and commands, core python concepts, problem solving on loop, recursion, arrays and strings. They also learnt basic DSA
